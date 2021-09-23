@@ -6,8 +6,8 @@
 
 🎈 **[CP003--25th-computer-week--UFV](https://github.com/GabrielMotaBLima/CP003--25th-computer-week--UFV):** Problems solved by the team [UFES] LGPD++ in the programming marathon of UFV (Federal University of Viçosa) computer week.
 
-🎈 **[CP004--hash-code-2021--Google](https://github.com/GabrielMotaBLima/CP004--hash-code-2021--Google):** Problems solved by the team "Brazilian Sort" in the Google Hash Code 2021.
+🎈 **[CP004--hash-code-2021--Google](https://github.com/GabrielMotaBLima/CP004--hash-code-2021--Google):** Problems solved by the team "Brazilian Sort" in the Google Hash Code 2021. We got the 5001st position in the world (2nd position in Stanford Hub).
 
-🎈 **[CP005--topcom-18--UFES](https://github.com/GabrielMotaBLima/CP005--topcom-18):** Problems solved by the team "Thaina e os Tabelinhas" in the 18th TOPCOM.
+🎈 **[CP005--topcom-18--UFES](https://github.com/GabrielMotaBLima/CP005--topcom-18):** Problems solved by the team "Thaina e os Tabelinhas" in the 18th TOPCOM. We got the 10th position in the contest (1st position at São Mateus, ES - Brazil).
 
-🎈 **[CP006--semcomp-rp-2021--USP](https://github.com/GabrielMotaBLima/CP006--semcomp-rp-2021--USP):** Problems solved by me in the Programming Marathon - SemComp RP 2021 (USP-RP).
+🎈 **[CP006--semcomp-rp-2021--USP](https://github.com/GabrielMotaBLima/CP006--semcomp-rp-2021--USP):** Problems solved by me in the Programming Marathon - SemComp RP 2021 (USP-RP). I got the 5th position.
